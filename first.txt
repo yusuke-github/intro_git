@@ -3,3 +3,5 @@ Gitの練習をしていきます。
 もう一度pushしてみる。
 ・git add
 ・git commit
+・git log
+・git rm
